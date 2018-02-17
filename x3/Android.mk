@@ -16,7 +16,7 @@ LOCAL_SRC_FILES_32 := proprietary/lib/libdpframework.so
 include $(BUILD_PREBUILT)
 
 
-$(info [SscSPs] copying APK files)
+$(info [V€NK∆T] copying APK files)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := GFManager
